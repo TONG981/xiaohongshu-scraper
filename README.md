@@ -31,7 +31,7 @@
 ### 安装依赖
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/xiaohongshu-scraper.git
+git clone https://github.com/TONG981/xiaohongshu-scraper.git
 cd xiaohongshu-scraper
 
 # 安装依赖
