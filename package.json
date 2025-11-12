@@ -1,0 +1,16 @@
+{
+  "name": "xiaohongshu-scraper",
+  "version": "1.0.0",
+  "description": "小红书信息搜集工具 - 基于 Playwright 的网页自动化脚本",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["xiaohongshu", "scraper", "playwright", "automation"],
+  "author": "你的名字",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.56.1"
+  }
+}
